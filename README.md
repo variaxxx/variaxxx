@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/156338898?v=4"  />
-</div>
+<h1 align="center">variaxxx</h2>
+<h6 align="center">Fullstack developer</h2>
 
 ###
 
@@ -21,11 +20,11 @@
 
 ###
 
-<h2 align="center">👩‍💻  About Me</h2>
+<h2 align="center">🎓 Education</h2>
 
 ###
 
-<p align="left">I'm a developer from Moscow<br><br>- 🧑‍🎓 I study in Higher School of Economics.<br>- 📚 I'm delving into Angular and NestJS, aiming to become a proficient fullstack developer. I'm also interested in machine learning.</p>
+<h4 align="center"><a href="https://www.hse.ru/en/">Higher School of Economics</a></h4>
 
 ###
 
@@ -33,7 +32,7 @@
 
 ###
 
-<h3 align="left">web</h3>
+<h3 align="left">🌐 Web</h3>
 
 ###
 
@@ -79,7 +78,7 @@
 
 ###
 
-<h3 align="left">delving</h3>
+<h3 align="left">🎯 Goals</h3>
 
 ###
 
