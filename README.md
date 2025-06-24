@@ -1,5 +1,5 @@
-<h1 align="center">variaxxx</h2>
-<h6 align="center">Fullstack developer</h2>
+<h1 align="center">variaxxx</h1>
+<h6 align="center">Fullstack developer</h6>
 
 ###
 
